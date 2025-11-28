@@ -1,0 +1,13 @@
+1.class and obj( with help of eg)
+2.class has data/aatribute and function/ methods.
+   >>code walkthrough >>oops1.py file
+   >>attrubute get called itself,  but methods are called manually >>>oops2.py
+   >> so what was need of the called itself??
+   ----- because we supposed to some functions that should run automatically without any intervention of user, like connecting,
+   to database in backend, connecting to internet, becasue we don't expect a non tech user that he will coneect it.
+3.why python is called oop??   everything in python is object(eg data str, data type like strings, int are itself are class and much more)
+4.advantages of oops
+   >>you can create your own datatype(not needed much at this level)
+   >>  debugging
+   >> easy to collab
+   >>code reuseability( code written in one program can be used in other aswell)
